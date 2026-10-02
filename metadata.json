@@ -1,0 +1,7 @@
+{
+  "name": "EduCore Enterprise - School Management System & ERP",
+  "description": "Comprehensive enterprise-grade School ERP with multi-campus support, student lifecycle management, fee automation, day book financial ledger, cash flow, exams, and RBAC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
